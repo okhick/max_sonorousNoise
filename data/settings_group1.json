@@ -1,0 +1,632 @@
+{
+  "0": {
+    "Bank1": {
+      "Amp": {
+        "startStop": [0, 0],
+        "rampTime": 0
+      },
+      "Freq": 0,
+      "Band": 0
+    },
+    "Bank2": {
+      "Amp": {
+        "startStop": [0, 0],
+        "rampTime": 0
+      },
+      "Freq": 0,
+      "Band": 0
+    },
+    "Bank3": {
+      "Amp": {
+        "startStop":[0, 0.09525],
+        "rampTime": 0
+      },
+      "Freq":195.998,
+      "Band": 1.5
+    },
+    "Bank4": {
+      "Amp": {
+        "startStop": [0, 0],
+        "rampTime": 0
+      },
+      "Freq": 0,
+      "Band": 0
+    },
+    "Bank5": {
+      "Amp": {
+        "startStop":[0, 0.04752],
+        "rampTime": 0
+      },
+      "Freq":493.883,
+      "Band": 1.5
+    },
+    "Bank6": {
+      "Amp": {
+        "startStop": [0, 0],
+        "rampTime": 0
+      },
+      "Freq": 0,
+      "Band": 0
+    },
+    "Bank7": {
+      "Amp": {
+        "startStop": [0, 0],
+        "rampTime": 0
+      },
+      "Freq": 0,
+      "Band": 0
+    },
+    "Bank8": {
+      "Amp": {
+        "startStop": [0, 0],
+        "rampTime": 0
+      },
+      "Freq": 0,
+      "Band": 0
+    },
+    "Bank9": {
+      "Amp": {
+        "startStop": [0, 0],
+        "rampTime": 0
+      },
+      "Freq": 0,
+      "Band": 0
+    },
+    "Bank10": {
+      "Amp": {
+        "startStop": [0, 0],
+        "rampTime": 0
+      },
+      "Freq": 0,
+      "Band": 0
+    }
+  },
+  "15": {
+    "Bank1": {
+      "Amp": {
+        "startStop":[0, 0.05069],
+        "rampTime": 5000
+      },
+      "Freq":123.471,
+      "Band": 4.28
+    },
+    "Bank3": {
+      "Freq": 195.998,
+      "Band": 2.13
+    },
+    "Bank5": {
+      "Freq": 493.883,
+      "Band": 2.26
+    },
+    "Bank7": {
+      "Amp": {
+        "startStop":[0, 0.03365],
+        "rampTime": 5000
+      },
+      "Freq": 783.991,
+      "Band": 3.81
+    },
+    "Bank9": {
+      "Amp": {
+        "startStop":[0, 0.01254],
+        "rampTime": 5000
+      },
+      "Freq": 1046.502,
+      "Band": 4.66
+    }
+  },
+  "35": {
+    "Bank7":{
+      "Amp": {
+        "startStop":[0.03365, 0],
+        "rampTime": 5000
+      },
+      "Freq": 783.991,
+      "Band": 3.81
+    },
+    "Bank8": {
+      "Amp": {
+        "startStop":[0, 0.02278],
+        "rampTime": 5000
+      },
+      "Freq": 698.457,
+      "Band": 3.81
+    }
+  },
+  "75": {
+    "Bank1": {
+      "Amp":{
+        "startStop": [0.05069, 0],
+        "rampTime": 5000
+      },
+      "Freq": 123.471,
+      "Band": 4.28
+    },
+    "Bank2": {
+      "Amp": {
+        "startStop":[0, 0.20569],
+        "rampTime": 5000
+      },
+      "Freq": 116.541,
+      "Band": 4.09
+    },
+    "Bank3":{
+      "Amp": {
+        "startStop": [0.09525, 0.06864],
+        "rampTime": 5000
+      },
+      "Freq": 195.998,
+      "Band": 3.07
+    },
+    "Bank5": {
+      "Amp":{
+        "startStop": [0.04752, 0],
+        "rampTime":5000
+      },
+      "Freq": 493.883,
+      "Band": 2.26
+    },
+    "Bank6": {
+      "Amp": {
+        "startStop": [0, 0.01919],
+        "rampTime": 5000
+      },
+      "Freq": 466.164,
+      "Band": 2.95
+    },
+    "Bank8": {
+      "Freq": 698.457,
+      "Band": 3.43
+    },
+    "Bank9": {
+      "Amp": {
+        "startStop": [0.01254, 0.01593],
+        "rampTime": 5000
+      },
+      "Freq": 1046.502,
+      "Band": 4.66
+    }
+  },
+  "95": {
+    "Bank7": {
+      "Amp": {
+        "startStop":[0, 0.01919],
+        "rampTime": 5000
+      },
+      "Freq": 622.254,
+      "Band": 4.31
+    },
+    "Bank8": {
+      "Amp": {
+        "startStop": [0.02278, 0],
+        "rampTime": 5000
+      },
+      "Freq": 698.457,
+      "Band":3.81
+    }
+  },
+  "135": {
+    "Bank6": {
+      "Freq": 466.164,
+      "Band": 3.58
+    },
+    "Bank7": {
+      "Freq": 622.254,
+      "Band": 3.31
+    },
+    "Bank9": {
+      "Amp": {
+        "startStop": [0.01593, 0],
+        "rampTime": 5000
+      },
+      "Freq": 1046.502,
+      "Band": 4.66
+    },
+    "Bank10": {
+      "Amp": {
+        "startStop":[0, 0.00718],
+        "rampTime": 5000
+      },
+      "Freq": 1174.659,
+      "Band": 2.08
+    }
+  },
+  "155": {
+    "Bank1": {
+      "Amp": {
+        "startStop":[0, 0.06964],
+        "rampTime": 5000
+      },
+      "Freq": 123.471,
+      "Band": 4.09
+    },
+    "Bank2": {
+      "Amp": {
+        "startStop": [0.20596, 0],
+        "rampTime": 5000
+      },
+      "Freq": 116.541,
+      "Band": 4.09
+    },
+    "Bank3": {
+      "Amp": {
+        "startStop": [0.06864, 0],
+        "rampTime": 5000
+      },
+      "Freq": 195.998,
+      "Band": 3.07
+    },
+    "Bank4": {
+      "Amp": {
+        "startStop":[0, 0.10026],
+        "rampTime": 5000
+      },
+      "Freq": 174.641,
+      "Band": 3.07
+    },
+    "Bank5": {
+      "Amp": {
+        "startStop":[0, 0.03124],
+        "rampTime": 5000
+      },
+      "Freq": 493.883,
+      "Band": 4.21
+    },
+    "Bank6": {
+      "Amp": {
+        "startStop":[0.01919, 0],
+        "rampTime": 5000
+      },
+      "Freq": 622.254,
+      "Band": 3.58
+    },
+    "Bank7": {
+      "Amp": {
+        "startStop":[0, 0.01072],
+        "rampTime": 5000
+      },
+      "Freq": 622.254,
+      "Band": 3.87
+    },
+    "Bank10": {
+      "Amp": {
+        "startStop":[0.00718, 0.01254],
+        "rampTime": 5000
+      },
+      "Freq": 1174.659,
+      "Band": 2.08
+    }
+  },
+  "195": {
+    "Bank7": {
+      "Amp": {
+        "startStop":[0.01072, 0],
+        "rampTime": 5000
+      },
+      "Freq": 622.254,
+      "Band": 4.21
+    },
+    "Bank8": {
+      "Amp": {
+        "startStop":[0, 0.03124],
+        "rampTime": 5000
+      },
+      "Freq": 554.365,
+      "Band": 3.18
+    },
+    "Bank9": {
+      "Amp": {
+        "startStop":[0, 0.01254],
+        "rampTime": 5000
+      },
+      "Freq": 1108.731,
+      "Band": 3.09
+    },
+    "Bank10": {
+      "Amp": {
+        "startStop":[0.01254, 0],
+        "rampTime": 5000
+      },
+      "Freq": 1174.659,
+      "Band": 2.08
+    }
+  },
+  "215": {
+    "Bank1": {
+      "Amp": {
+        "startStop":[0.06964, 0],
+        "rampTime": 5000
+      },
+      "Freq": 123.471,
+      "Band": 4.09
+    },
+    "Bank2": {
+      "Amp": {
+        "startStop":[0, 0.06864],
+        "rampTime": 5000
+      },
+      "Freq": 116.541,
+      "Band": 4.09
+    },
+    "Bank3": {
+      "Amp": {
+        "startStop":[0, 0.10026],
+        "rampTime": 5000
+      },
+      "Freq": 155.564,
+      "Band": 3.07
+    },
+    "Bank4": {
+      "Amp": {
+        "startStop":[0.10026, 0],
+        "rampTime": 5000
+      },
+      "Freq": 174.641,
+      "Band": 3.07
+    },
+    "Bank5": {
+      "Amp": {
+        "startStop":[0.03124, 0],
+        "rampTime": 5000
+      },
+      "Freq": 466.164,
+      "Band": 4.21
+    },
+    "Bank6": {
+      "Amp": {
+        "startStop":[0, 0.07687],
+        "rampTime": 5000
+      },
+      "Freq": 466.164,
+      "Band": 4.21
+    },
+    "Bank9": {
+      "Amp": {
+        "startStop":[0.01254, 0],
+        "rampTime": 5000
+      },
+      "Freq": 1108.731,
+      "Band": 3.09
+    },
+    "Bank10": {
+      "Amp": {
+        "startStop":[0, 0.01419],
+        "rampTime": 5000
+      },
+      "Freq": 1224.508,
+      "Band": 3.09
+    }
+  },
+  "235": {
+    "Bank3": {
+      "Amp": {
+        "startStop":[0.10026, 0],
+        "rampTime": 5000
+      },
+      "Freq": 155.564,
+      "Band": 3.07
+    },
+    "Bank4": {
+      "Amp": {
+        "startStop":[0, 0.04752],
+        "rampTime": 5000
+      },
+      "Freq": 233.082,
+      "Band": 3.07
+    }
+  },
+  "255": {
+    "Bank9": {
+      "Amp": {
+        "startStop":[0, 0.01419],
+        "rampTime": 5000
+      },
+      "Freq": 1174.659,
+      "Band": 3.09
+    },
+    "Bank10": {
+      "Amp": {
+        "startStop":[0.01419, 0],
+        "rampTime": 5000
+      },
+      "Freq": 1174.659,
+      "Band": 3.09
+    }
+  },
+  "275": {
+    "Bank1": {
+      "Amp": {
+        "startStop":[0, 0.2594],
+        "rampTime": 5000
+      },
+      "Freq": 110,
+      "Band": 2.58
+    },
+    "Bank2": {
+      "Amp": {
+        "startStop":[0.06864, 0],
+        "rampTime": 5000
+      }
+    },
+    "Bank3": {
+      "Amp": {
+        "startStop":[0, 0.06476],
+        "rampTime": 5000
+      },
+      "Freq": 220,
+      "Band": 3.07
+    },
+    "Bank4": {
+      "Amp": {
+        "startStop":[0.04752, 0],
+        "rampTime": 5000
+      },
+      "Freq": 233.082,
+      "Band": 3.07
+    },
+    "Bank5": {
+      "Amp": {
+        "startStop":[0, 0.04752],
+        "rampTime": 5000
+      },
+      "Freq": 440,
+      "Band": 2.57
+    },
+    "Bank6": {
+      "Amp": {
+        "startStop":[0.07687, 0],
+        "rampTime": 5000
+      },
+      "Freq": 466.164,
+      "Band": 4.21
+    },
+    "Bank7": {
+      "Amp": {
+        "startStop":[0, 0.04159],
+        "rampTime": 5000
+      },
+      "Freq": 587.33,
+      "Band": 2.05
+    },
+    "Bank8": {
+      "Amp": {
+        "startStop": [0.03124, 0],
+        "rampTime": 5000
+      },
+      "Freq": 554.365,
+      "Band": 3.18
+    },
+    "Bank9": {
+      "Amp": {
+        "startStop":[0.01419, 0.01973],
+        "rampTime": 5000
+      },
+      "Freq": 1174.659,
+      "Band": 3.09
+    }
+  },
+  "295": {
+    "Bank1": {
+      "Amp": {
+        "startStop":[0.25944, 0],
+        "rampTime": 5000
+      },
+      "Freq": 110,
+      "Band": 2.58
+    },
+    "Bank2": {
+      "Amp": {
+        "startStop":[0, 0.25944],
+        "rampTime": 5000
+      },
+      "Freq": 97.999,
+      "Band": 2.58
+    },
+    "Bank3": {
+      "Amp": {
+        "startStop":[0.06476, 0],
+        "rampTime": 5000
+      },
+      "Freq": 220,
+      "Band": 3.07
+    },
+    "Bank4": {
+      "Amp": {
+        "startStop":[0, 0.06476],
+        "rampTime": 5000
+      },
+      "Freq": 195.998,
+      "Band": 3.07
+    },
+    "Bank5": {
+      "Amp": {
+        "startStop":[0.04752, 0],
+        "rampTime": 5000
+      },
+      "Freq": 440,
+      "Band": 2.57
+    },
+    "Bank6": {
+      "Amp": {
+        "startStop":[0, 0.04752],
+        "rampTime": 5000
+      },
+      "Freq": 493.883,
+      "Band": 2.57
+    },
+    "Bank7": {
+      "Amp": {
+        "startStop":[0.04159, 0],
+        "rampTime": 5000
+      },
+      "Freq": 587.33,
+      "Band": 2.05
+    },
+    "Bank8": {
+      "Amp": {
+        "startStop":[0, 0.04159],
+        "rampTime": 5000
+      },
+      "Freq": 783.991,
+      "Band": 2.05
+    },
+    "Bank9": {
+      "Amp": {
+        "startStop":[0.01973, 0],
+        "rampTime": 5000
+      },
+      "Freq": 1174.659,
+      "Band": 3.09
+    },
+    "Bank10": {
+      "Amp": {
+        "startStop":[0, 0.01973],
+        "rampTime": 5000
+      },
+      "Freq": 987.767,
+      "Band": 3.09
+    }
+  },
+  "345": {
+    "Bank2": {
+      "Amp": {
+        "startStop":[0.25944,0],
+        "rampTime": 10000
+      },
+      "Freq": 97.999,
+      "Band": 2.58
+    },
+    "Bank4": {
+      "Amp": {
+        "startStop":[0.06476, 0],
+        "rampTime": 10000
+      },
+      "Freq": 195.998,
+      "Band": 3.07
+    },
+    "Bank6": {
+      "Amp": {
+        "startStop":[0.04752, 0],
+        "rampTime": 10000
+      },
+      "Freq": 493.883,
+      "Band": 2.57
+    },
+    "Bank8": {
+      "Amp": {
+        "startStop":[0.04159, 0],
+        "rampTime": 10000
+      },
+      "Freq": 783.991,
+      "Band": 2.05
+    },
+    "Bank10": {
+      "Amp": {
+        "startStop":[0.01973, 0],
+        "rampTime": 10000
+      },
+      "Freq": 987.767,
+      "Band": 3.09
+    }
+  }
+}
